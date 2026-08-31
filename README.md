@@ -1,4 +1,3 @@
-# api-connect-nome-sobrenome
 # API Connect - [Carlos Henrique]
 
 ## Objetivo da API
